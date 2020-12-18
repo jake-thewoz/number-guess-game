@@ -1,4 +1,4 @@
-# week-8-homework
+# number-guess-game
 
 This is a homework assignment from a web development class at my university.
 
